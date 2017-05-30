@@ -1,2 +1,2 @@
 # MIP-Wiki
-MIP wiki
+https://github.com/SHU-MIP/MIP-Wiki/wiki/MIP-Project-Wiki
